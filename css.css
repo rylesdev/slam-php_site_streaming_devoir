@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 0 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.video {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.video iframe {
+    width: 100%;
+    max-width: 560px;
+    height: 315px;
+}
+
+.info {
+    margin-top: 20px;
+}
+
+.synopsis {
+    margin-top: 50px;
+}
+
+.synopsis h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.synopsis p {
+    line-height: 1.6;
+}
