@@ -11,8 +11,6 @@
     </div>
 </div>
 
-supprimer
-
 <br>
 
 <div class="container">
